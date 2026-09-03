@@ -1,16 +1,16 @@
-# 🚗 Car Price Prediction with Machine Learning
+#  Car Price Prediction with Machine Learning
 
 > Predicting used car resale prices using exploratory data analysis, feature engineering, and regression machine learning algorithms.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The objective of this project is to develop machine learning regression models to accurately predict the **selling price** (resale value in Lakh INR) of used vehicles based on various vehicle attributes such as current showroom price, age, mileage, fuel type, transmission type, seller type, and brand.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 - **Source:** [Kaggle — Used Car Price Prediction Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-prediction-used-cars)
 - **Size:** 301 records × 9 features
@@ -30,7 +30,7 @@ The objective of this project is to develop machine learning regression models t
 
 ---
 
-## ⚙️ Methodology & Pipeline
+##  Methodology & Pipeline
 
 1. **Data Preprocessing & Cleaning:**
    - Checked for null/missing values.
@@ -61,7 +61,7 @@ The objective of this project is to develop machine learning regression models t
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 The models were evaluated and compared using the following metrics on the test set:
 - **Mean Absolute Error (MAE):** Average magnitude of errors in Lakhs.
@@ -70,7 +70,7 @@ The models were evaluated and compared using the following metrics on the test s
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ├── data/
