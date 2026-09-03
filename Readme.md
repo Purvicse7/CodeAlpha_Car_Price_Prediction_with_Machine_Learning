@@ -57,7 +57,7 @@ The objective of this project is to develop machine learning regression models t
    - **Ridge Regression** ($\alpha = 10$)
    - **Lasso Regression** ($\alpha = 0.1$)
    - **Random Forest Regressor** ($n = 300$)
-   - **Gradient Boosting Regressor** ($n = 300, \text{max\_depth} = 3$)
+   - **Gradient Boosting Regressor** ('n = 300','max_depth = 3')
 
 ---
 
